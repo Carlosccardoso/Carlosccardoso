@@ -3,12 +3,10 @@
     <h2 align="center">A Software Engineering from Brazil</h2>
 </div>
 <br/>
-<hr/>
 <div align="center"="center">
     <h3 align="center">🔭 I’m currently working as a developer</h3>
     <h3 align="center">🌱 I’m currently learning Java</h3>
 </div>
-<br/>
 <hr/>
 <div align="center">
     <a href="https://www.linkedin.com/in/carlos-cardoso-886530249/">
@@ -25,7 +23,8 @@
 
 
 </div>
-</hr>
+<br/>
+
 <div align="center">
     <img src="https://skillicons.dev/icons?i=js,html,css,php,laravel,git,java,photoshop">
 </div>
