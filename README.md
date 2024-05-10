@@ -1,6 +1,6 @@
-<div aling="center">
-<h2 aling="center">Hi there 👋</h2>
-<h3 aling="center">A Software Engineering from Brazil</h3>
+<div align="center"="center">
+<h2 align="center">Hi there 👋</h2>
+<h3 align="center">A Software Engineering from Brazil</h3>
 </div>
 
 **Carlosccardoso/Carlosccardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
