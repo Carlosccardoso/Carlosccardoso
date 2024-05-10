@@ -1,5 +1,4 @@
 <div align="center"="center">
-<script src="https://cdn.lordicon.com/lordicon.js"></script>
 <lord-icon
     src="https://cdn.lordicon.com/szoiozyr.json"
     trigger="hover"
