@@ -9,5 +9,5 @@
 <div align="center"="center">
 <h3 align="center"> Hi there 👋</h3>
 <h3 align="center">🔭 I’m currently working as a developer</h3>
-<h3 align="center">🌱 I’m currently learning **Java**</h3>
+<h3 align="center">🌱 I’m currently learning *Java*</h3>
 </div>
