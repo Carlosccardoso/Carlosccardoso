@@ -1,17 +1,14 @@
 <div align="center"="center">
-<h2 align="center">Hi there 👋</h2>
-<h3 align="center">A Software Engineering from Brazil</h3>
+<h1 align="center">Hi there 👋</h1>
+<h2 align="center">A Software Engineering from Brazil</h2>
 </div>
 
-**Carlosccardoso/Carlosccardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working as a developer
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning **Java**
+<div align="center"="center">
+<h3 align="center"> Hi there 👋</h3>
+<h3 align="center">🔭 I’m currently working as a developer</h3>
+<h3 align="center">🌱 I’m currently learning **Java**</h3>
+</div>
