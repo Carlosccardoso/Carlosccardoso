@@ -1,9 +1,4 @@
 <div align="center"="center">
-<lord-icon
-    src="https://cdn.lordicon.com/szoiozyr.json"
-    trigger="hover"
-    style="width:250px;height:250px">
-</lord-icon>
     <h1 align="center">Hi there 👋</h1>
     <h2 align="center">A Software Engineering from Brazil</h2>
 </div>
@@ -32,3 +27,5 @@
     <img src="https://skillicons.dev/icons?i=js,html,css,php,laravel,git,java,photoshop">
 </div>
 </main>
+<img
+    src="https://cdn.lordicon.com/szoiozyr.json">
