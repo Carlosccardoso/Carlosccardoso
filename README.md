@@ -1,5 +1,5 @@
 <div align="center"="center">
-    <h1 align="center">Hi there 👋</h1>
+    <h1 align="center">Hi, My name is Carlos Cardoso👋</h1>
     <h2 align="center">A Software Engineering from Brazil</h2>
 </div>
 <div align="center"="center">
@@ -27,5 +27,4 @@
     <img src="https://skillicons.dev/icons?i=js,html,css,php,laravel,git,java,photoshop">
 </div>
 </main>
-<img
-    src="https://cdn.lordicon.com/szoiozyr.json">
+
