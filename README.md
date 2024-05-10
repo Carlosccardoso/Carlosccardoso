@@ -27,7 +27,7 @@
 
 </div>
 </hr>
-<div>
+<div align="center">
     <img
         src="https://skillicons.dev/icons?i=js,html,css,php,laravel,git,java,photoshop">
     
